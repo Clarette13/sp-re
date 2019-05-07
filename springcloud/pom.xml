@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.1812</groupId>
+  <artifactId>springcloud</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>sp-commons</module>
+  	<module>sp-itemservice</module>
+  	<module>userservice</module>
+  	<module>sp-userservice</module>
+  	<module>sp-orderservice</module>
+  	<module>sp03-userservice</module>
+  </modules>
+</project>
